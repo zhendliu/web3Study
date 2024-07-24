@@ -5,50 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71e145dc-4bb9-4ce3-a32e-2989f3376707" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../eth-devlop/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/task02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Store_sol_Store.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Store_sol_Store.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account_balance.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/address_check.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/block_subscribe.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client_simulated.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract_bytecode.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract_deploy.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract_load.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract_read_erc20.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract_write.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/Store.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/Store.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/Store_sol_Store.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/Store_sol_Store.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/erc20.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erc20.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erc20_sol_ERC20.abi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event_read_erc20.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event_subscribe.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keystore.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmp/UTC--2024-07-15T14-11-14.686598000Z--f3122dbaf0e46b46d49f3386790021b10182c070" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transaction_raw_create.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transactions.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transfer_eth.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transfer_tokens.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallet_generate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallets/UTC--2024-07-15T14-23-40.841711000Z--f3122dbaf0e46b46d49f3386790021b10182c070" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whisper_client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whisper_keypair.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whisper_send.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task-manage/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task03/ethdb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task03/rlp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task03/rpc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task03/tire.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
